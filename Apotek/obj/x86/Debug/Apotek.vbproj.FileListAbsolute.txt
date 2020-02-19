@@ -1,0 +1,111 @@
+C:\Users\Lovanto\Documents\Visual Studio 2010\Projects\Apotek\Apotek\bin\Debug\Apotek.exe.config
+C:\Users\Lovanto\Documents\Visual Studio 2010\Projects\Apotek\Apotek\bin\Debug\Apotek.exe
+C:\Users\Lovanto\Documents\Visual Studio 2010\Projects\Apotek\Apotek\bin\Debug\Apotek.pdb
+C:\Users\Lovanto\Documents\Visual Studio 2010\Projects\Apotek\Apotek\bin\Debug\Apotek.xml
+C:\Users\Lovanto\Documents\Visual Studio 2010\Projects\Apotek\Apotek\bin\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\Users\Lovanto\Documents\Visual Studio 2010\Projects\Apotek\Apotek\bin\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+C:\Users\Lovanto\Documents\Visual Studio 2010\Projects\Apotek\Apotek\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\Users\Lovanto\Documents\Visual Studio 2010\Projects\Apotek\Apotek\obj\x86\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+C:\Users\Lovanto\Documents\Visual Studio 2010\Projects\Apotek\Apotek\obj\x86\Debug\Apotek.vbproj.ResolveComReference.cache
+C:\Users\Lovanto\Documents\Visual Studio 2010\Projects\Apotek\Apotek\obj\x86\Debug\Apotek.DaftarRetur.resources
+C:\Users\Lovanto\Documents\Visual Studio 2010\Projects\Apotek\Apotek\obj\x86\Debug\Apotek.Faktur.resources
+C:\Users\Lovanto\Documents\Visual Studio 2010\Projects\Apotek\Apotek\obj\x86\Debug\Apotek.GantiPassword.resources
+C:\Users\Lovanto\Documents\Visual Studio 2010\Projects\Apotek\Apotek\obj\x86\Debug\Apotek.Laporan.resources
+C:\Users\Lovanto\Documents\Visual Studio 2010\Projects\Apotek\Apotek\obj\x86\Debug\Apotek.LaporanMaster.resources
+C:\Users\Lovanto\Documents\Visual Studio 2010\Projects\Apotek\Apotek\obj\x86\Debug\Apotek.LaporanPenjualan.resources
+C:\Users\Lovanto\Documents\Visual Studio 2010\Projects\Apotek\Apotek\obj\x86\Debug\Apotek.Login.resources
+C:\Users\Lovanto\Documents\Visual Studio 2010\Projects\Apotek\Apotek\obj\x86\Debug\Apotek.MasterMenu.resources
+C:\Users\Lovanto\Documents\Visual Studio 2010\Projects\Apotek\Apotek\obj\x86\Debug\Apotek.Resources.resources
+C:\Users\Lovanto\Documents\Visual Studio 2010\Projects\Apotek\Apotek\obj\x86\Debug\Apotek.Perkursor.resources
+C:\Users\Lovanto\Documents\Visual Studio 2010\Projects\Apotek\Apotek\obj\x86\Debug\Apotek.Petugas.resources
+C:\Users\Lovanto\Documents\Visual Studio 2010\Projects\Apotek\Apotek\obj\x86\Debug\Apotek.Retur.resources
+C:\Users\Lovanto\Documents\Visual Studio 2010\Projects\Apotek\Apotek\obj\x86\Debug\Apotek.RincianTransaksi.resources
+C:\Users\Lovanto\Documents\Visual Studio 2010\Projects\Apotek\Apotek\obj\x86\Debug\Apotek.SO.resources
+C:\Users\Lovanto\Documents\Visual Studio 2010\Projects\Apotek\Apotek\obj\x86\Debug\Apotek.TampilSO.resources
+C:\Users\Lovanto\Documents\Visual Studio 2010\Projects\Apotek\Apotek\obj\x86\Debug\Apotek.vbproj.GenerateResource.Cache
+C:\Users\Lovanto\Documents\Visual Studio 2010\Projects\Apotek\Apotek\obj\x86\Debug\Apotek.exe
+C:\Users\Lovanto\Documents\Visual Studio 2010\Projects\Apotek\Apotek\obj\x86\Debug\Apotek.xml
+C:\Users\Lovanto\Documents\Visual Studio 2010\Projects\Apotek\Apotek\obj\x86\Debug\Apotek.pdb
+C:\Users\Public\Documents\apotek\Apotek\bin\Debug\Apotek.exe.config
+C:\Users\Public\Documents\apotek\Apotek\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\Users\Public\Documents\apotek\Apotek\obj\x86\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+C:\Users\Public\Documents\apotek\Apotek\obj\x86\Debug\Apotek.vbproj.ResolveComReference.cache
+C:\Users\Public\Documents\apotek\Apotek\obj\x86\Debug\Apotek.exe
+C:\Users\Public\Documents\apotek\Apotek\obj\x86\Debug\Apotek.xml
+C:\Users\Public\Documents\apotek\Apotek\obj\x86\Debug\Apotek.pdb
+C:\Users\Public\Documents\apotek\Apotek\bin\Debug\Apotek.exe
+C:\Users\Public\Documents\apotek\Apotek\bin\Debug\Apotek.pdb
+C:\Users\Public\Documents\apotek\Apotek\bin\Debug\Apotek.xml
+C:\Users\Public\Documents\apotek\Apotek\bin\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\Users\Public\Documents\apotek\Apotek\bin\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+C:\Users\Public\Documents\apotek\Apotek\obj\x86\Debug\Apotek.vbprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\apotek\Apotek\obj\x86\Debug\Apotek.Barang1.resources
+C:\Users\Public\Documents\apotek\Apotek\obj\x86\Debug\Apotek.DaftarRetur.resources
+C:\Users\Public\Documents\apotek\Apotek\obj\x86\Debug\Apotek.Faktur.resources
+C:\Users\Public\Documents\apotek\Apotek\obj\x86\Debug\Apotek.GantiPassword.resources
+C:\Users\Public\Documents\apotek\Apotek\obj\x86\Debug\Apotek.Laporan.resources
+C:\Users\Public\Documents\apotek\Apotek\obj\x86\Debug\Apotek.LaporanMaster.resources
+C:\Users\Public\Documents\apotek\Apotek\obj\x86\Debug\Apotek.LaporanPenjualan.resources
+C:\Users\Public\Documents\apotek\Apotek\obj\x86\Debug\Apotek.Login.resources
+C:\Users\Public\Documents\apotek\Apotek\obj\x86\Debug\Apotek.MasterMenu.resources
+C:\Users\Public\Documents\apotek\Apotek\obj\x86\Debug\Apotek.Resources.resources
+C:\Users\Public\Documents\apotek\Apotek\obj\x86\Debug\Apotek.Perkursor.resources
+C:\Users\Public\Documents\apotek\Apotek\obj\x86\Debug\Apotek.Petugas.resources
+C:\Users\Public\Documents\apotek\Apotek\obj\x86\Debug\Apotek.Retur.resources
+C:\Users\Public\Documents\apotek\Apotek\obj\x86\Debug\Apotek.RincianTransaksi.resources
+C:\Users\Public\Documents\apotek\Apotek\obj\x86\Debug\Apotek.SO.resources
+C:\Users\Public\Documents\apotek\Apotek\obj\x86\Debug\Apotek.TampilSO.resources
+C:\Users\Public\Documents\apotek\Apotek\obj\x86\Debug\Apotek.vbproj.GenerateResource.Cache
+C:\Users\Public\Documents\apotek\Apotek\obj\x86\Debug\Apotek.Penjualan1.resources
+C:\Users\Public\Documents\apotek\Apotek\bin\Debug\Apotek.exe.manifest
+C:\Users\Public\Documents\apotek\Apotek\bin\Debug\Apotek.application
+C:\Users\Public\Documents\apotek\Apotek\obj\x86\Debug\Apotek.exe.manifest
+C:\Users\Public\Documents\apotek\Apotek\obj\x86\Debug\Apotek.application
+C:\Users\Public\Documents\apotek\Apotek\obj\x86\Debug\Apotek.cetak_so.resources
+C:\Users\Public\Documents\apotek\Apotek\obj\x86\Debug\Apotek.fix_so.resources
+C:\Users\Lovanto\Documents\apotek\Apotek\bin\Debug\Apotek.exe.config
+C:\Users\Lovanto\Documents\apotek\Apotek\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\Users\Lovanto\Documents\apotek\Apotek\obj\x86\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+C:\Users\Lovanto\Documents\apotek\Apotek\obj\x86\Debug\Apotek.vbproj.ResolveComReference.cache
+C:\Users\Lovanto\Documents\apotek\Apotek\obj\x86\Debug\Apotek.exe
+C:\Users\Lovanto\Documents\apotek\Apotek\obj\x86\Debug\Apotek.xml
+C:\Users\Lovanto\Documents\apotek\Apotek\obj\x86\Debug\Apotek.pdb
+C:\Users\Lovanto\Documents\apotek\Apotek\bin\Debug\Apotek.exe.manifest
+C:\Users\Lovanto\Documents\apotek\Apotek\bin\Debug\Apotek.application
+C:\Users\Lovanto\Documents\apotek\Apotek\bin\Debug\Apotek.exe
+C:\Users\Lovanto\Documents\apotek\Apotek\bin\Debug\Apotek.pdb
+C:\Users\Lovanto\Documents\apotek\Apotek\bin\Debug\Apotek.xml
+C:\Users\Lovanto\Documents\apotek\Apotek\bin\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\Users\Lovanto\Documents\apotek\Apotek\bin\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+C:\Users\Lovanto\Documents\apotek\Apotek\obj\x86\Debug\Apotek.vbprojResolveAssemblyReference.cache
+C:\Users\Lovanto\Documents\apotek\Apotek\obj\x86\Debug\Apotek.Barang1.resources
+C:\Users\Lovanto\Documents\apotek\Apotek\obj\x86\Debug\Apotek.cetak_so.resources
+C:\Users\Lovanto\Documents\apotek\Apotek\obj\x86\Debug\Apotek.DaftarRetur.resources
+C:\Users\Lovanto\Documents\apotek\Apotek\obj\x86\Debug\Apotek.Faktur.resources
+C:\Users\Lovanto\Documents\apotek\Apotek\obj\x86\Debug\Apotek.fix_so.resources
+C:\Users\Lovanto\Documents\apotek\Apotek\obj\x86\Debug\Apotek.GantiPassword.resources
+C:\Users\Lovanto\Documents\apotek\Apotek\obj\x86\Debug\Apotek.Laporan.resources
+C:\Users\Lovanto\Documents\apotek\Apotek\obj\x86\Debug\Apotek.LaporanMaster.resources
+C:\Users\Lovanto\Documents\apotek\Apotek\obj\x86\Debug\Apotek.LaporanPenjualan.resources
+C:\Users\Lovanto\Documents\apotek\Apotek\obj\x86\Debug\Apotek.Login.resources
+C:\Users\Lovanto\Documents\apotek\Apotek\obj\x86\Debug\Apotek.MasterMenu.resources
+C:\Users\Lovanto\Documents\apotek\Apotek\obj\x86\Debug\Apotek.Resources.resources
+C:\Users\Lovanto\Documents\apotek\Apotek\obj\x86\Debug\Apotek.Penjualan1.resources
+C:\Users\Lovanto\Documents\apotek\Apotek\obj\x86\Debug\Apotek.Perkursor.resources
+C:\Users\Lovanto\Documents\apotek\Apotek\obj\x86\Debug\Apotek.Petugas.resources
+C:\Users\Lovanto\Documents\apotek\Apotek\obj\x86\Debug\Apotek.Retur.resources
+C:\Users\Lovanto\Documents\apotek\Apotek\obj\x86\Debug\Apotek.RincianTransaksi.resources
+C:\Users\Lovanto\Documents\apotek\Apotek\obj\x86\Debug\Apotek.SO.resources
+C:\Users\Lovanto\Documents\apotek\Apotek\obj\x86\Debug\Apotek.TampilSO.resources
+C:\Users\Lovanto\Documents\apotek\Apotek\obj\x86\Debug\Apotek.vbproj.GenerateResource.Cache
+C:\Users\Lovanto\Documents\apotek\Apotek\obj\x86\Debug\Apotek.exe.manifest
+C:\Users\Lovanto\Documents\apotek\Apotek\obj\x86\Debug\Apotek.application
+C:\Users\Lovanto\Documents\Visual Studio 2010\Projects\apotek\Apotek\obj\x86\Debug\Apotek.vbprojResolveAssemblyReference.cache
+C:\Users\Lovanto\Documents\Visual Studio 2010\Projects\apotek\Apotek\obj\x86\Debug\Apotek.Barang1.resources
+C:\Users\Lovanto\Documents\Visual Studio 2010\Projects\apotek\Apotek\obj\x86\Debug\Apotek.cetak_so.resources
+C:\Users\Lovanto\Documents\Visual Studio 2010\Projects\apotek\Apotek\obj\x86\Debug\Apotek.fix_so.resources
+C:\Users\Lovanto\Documents\Visual Studio 2010\Projects\apotek\Apotek\obj\x86\Debug\Apotek.Penjualan1.resources
+C:\Users\Lovanto\Documents\Visual Studio 2010\Projects\apotek\Apotek\bin\Debug\Apotek.exe.manifest
+C:\Users\Lovanto\Documents\Visual Studio 2010\Projects\apotek\Apotek\bin\Debug\Apotek.application
+C:\Users\Lovanto\Documents\Visual Studio 2010\Projects\apotek\Apotek\obj\x86\Debug\Apotek.exe.manifest
+C:\Users\Lovanto\Documents\Visual Studio 2010\Projects\apotek\Apotek\obj\x86\Debug\Apotek.application

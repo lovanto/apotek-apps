@@ -1,0 +1,17 @@
+C:\Users\Lovanto\documents\visual studio 2010\Projects\Apotek\Apotek\bin\Release\Apotek.exe.config
+C:\Users\Lovanto\documents\visual studio 2010\Projects\Apotek\Apotek\obj\x86\Release\Apotek.BackupData.resources
+C:\Users\Lovanto\documents\visual studio 2010\Projects\Apotek\Apotek\obj\x86\Release\Apotek.Barang.resources
+C:\Users\Lovanto\documents\visual studio 2010\Projects\Apotek\Apotek\obj\x86\Release\Apotek.DaftarRetur.resources
+C:\Users\Lovanto\documents\visual studio 2010\Projects\Apotek\Apotek\obj\x86\Release\Apotek.Faktur.resources
+C:\Users\Lovanto\documents\visual studio 2010\Projects\Apotek\Apotek\obj\x86\Release\Apotek.GantiPassword.resources
+C:\Users\Lovanto\documents\visual studio 2010\Projects\Apotek\Apotek\obj\x86\Release\Apotek.Laporan.resources
+C:\Users\Lovanto\documents\visual studio 2010\Projects\Apotek\Apotek\obj\x86\Release\Apotek.LaporanMaster.resources
+C:\Users\Lovanto\documents\visual studio 2010\Projects\Apotek\Apotek\obj\x86\Release\Apotek.LaporanPenjualan.resources
+C:\Users\Lovanto\documents\visual studio 2010\Projects\Apotek\Apotek\obj\x86\Release\Apotek.Login.resources
+C:\Users\Lovanto\documents\visual studio 2010\Projects\Apotek\Apotek\obj\x86\Release\Apotek.MasterMenu.resources
+C:\Users\Lovanto\documents\visual studio 2010\Projects\Apotek\Apotek\obj\x86\Release\Apotek.Resources.resources
+C:\Users\Lovanto\documents\visual studio 2010\Projects\Apotek\Apotek\obj\x86\Release\Apotek.Penjualan.resources
+C:\Users\Lovanto\documents\visual studio 2010\Projects\Apotek\Apotek\obj\x86\Release\Apotek.Petugas.resources
+C:\Users\Lovanto\documents\visual studio 2010\Projects\Apotek\Apotek\obj\x86\Release\Apotek.Retur.resources
+C:\Users\Lovanto\documents\visual studio 2010\Projects\Apotek\Apotek\obj\x86\Release\Apotek.RincianTransaksi.resources
+C:\Users\Lovanto\documents\visual studio 2010\Projects\Apotek\Apotek\obj\x86\Release\Apotek.vbproj.GenerateResource.Cache
